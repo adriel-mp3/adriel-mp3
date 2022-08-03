@@ -20,7 +20,7 @@
  
  <br>
  
-  ### Social networks:
+<b>### Social networks:<b>
  
 <div> 
  <a href="https://www.instagram.com/adrielsanto.s/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
