@@ -4,7 +4,7 @@
 
 <ul>
   <li><b>Skills:</b> HTML, CSS, Javascript, notions of UI/UX.</li>
-  <li><b>Studying:</b> Javascript, React...</li>
+  <li><b>Studying:</b> Javascript, React, Bootstrap</li>
   <li><b>Tools</b>:VS Code, Figma, AdobeXD, Pycharm.</li>
   <li><b>Basic Knowledge:</b>Python, Java.</li>
 </ul>
