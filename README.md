@@ -1,5 +1,5 @@
-### Hi there 👋
-### My name is Adriel and i am a Front-end Developer.
+<h1>Hi there</h1> 👋
+<h2>My name is Adriel and i am a Front-end Developer.</h2>
 <hr>
 
 <ul>
